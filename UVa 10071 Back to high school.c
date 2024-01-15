@@ -7,4 +7,5 @@ int main()
         s=v*(2*t);
         printf("%d\n",s);
     }
+    return 0;
 }
